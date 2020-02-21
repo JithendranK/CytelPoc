@@ -1,0 +1,10 @@
+D:\CytelPOC\CytelAWSLambda\CytelAWSLambda\bin\Debug\netcoreapp2.1\CytelAWSLambda.deps.json
+D:\CytelPOC\CytelAWSLambda\CytelAWSLambda\bin\Debug\netcoreapp2.1\CytelAWSLambda.runtimeconfig.json
+D:\CytelPOC\CytelAWSLambda\CytelAWSLambda\bin\Debug\netcoreapp2.1\CytelAWSLambda.runtimeconfig.dev.json
+D:\CytelPOC\CytelAWSLambda\CytelAWSLambda\bin\Debug\netcoreapp2.1\CytelAWSLambda.dll
+D:\CytelPOC\CytelAWSLambda\CytelAWSLambda\obj\Debug\netcoreapp2.1\CytelAWSLambda.csprojAssemblyReference.cache
+D:\CytelPOC\CytelAWSLambda\CytelAWSLambda\obj\Debug\netcoreapp2.1\CytelAWSLambda.AssemblyInfoInputs.cache
+D:\CytelPOC\CytelAWSLambda\CytelAWSLambda\obj\Debug\netcoreapp2.1\CytelAWSLambda.AssemblyInfo.cs
+D:\CytelPOC\CytelAWSLambda\CytelAWSLambda\bin\Debug\netcoreapp2.1\CytelAWSLambda.pdb
+D:\CytelPOC\CytelAWSLambda\CytelAWSLambda\obj\Debug\netcoreapp2.1\CytelAWSLambda.dll
+D:\CytelPOC\CytelAWSLambda\CytelAWSLambda\obj\Debug\netcoreapp2.1\CytelAWSLambda.pdb

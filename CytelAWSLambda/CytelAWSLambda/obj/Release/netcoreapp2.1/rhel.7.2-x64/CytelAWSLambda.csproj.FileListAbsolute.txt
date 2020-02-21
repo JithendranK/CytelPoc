@@ -1,0 +1,10 @@
+D:\CytelPOC\CytelAWSLambda\CytelAWSLambda\bin\Release\netcoreapp2.1\rhel.7.2-x64\CytelAWSLambda.deps.json
+D:\CytelPOC\CytelAWSLambda\CytelAWSLambda\bin\Release\netcoreapp2.1\rhel.7.2-x64\CytelAWSLambda.runtimeconfig.json
+D:\CytelPOC\CytelAWSLambda\CytelAWSLambda\bin\Release\netcoreapp2.1\rhel.7.2-x64\CytelAWSLambda.runtimeconfig.dev.json
+D:\CytelPOC\CytelAWSLambda\CytelAWSLambda\bin\Release\netcoreapp2.1\rhel.7.2-x64\CytelAWSLambda.dll
+D:\CytelPOC\CytelAWSLambda\CytelAWSLambda\bin\Release\netcoreapp2.1\rhel.7.2-x64\CytelAWSLambda.pdb
+D:\CytelPOC\CytelAWSLambda\CytelAWSLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\CytelAWSLambda.csprojAssemblyReference.cache
+D:\CytelPOC\CytelAWSLambda\CytelAWSLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\CytelAWSLambda.AssemblyInfoInputs.cache
+D:\CytelPOC\CytelAWSLambda\CytelAWSLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\CytelAWSLambda.AssemblyInfo.cs
+D:\CytelPOC\CytelAWSLambda\CytelAWSLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\CytelAWSLambda.dll
+D:\CytelPOC\CytelAWSLambda\CytelAWSLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\CytelAWSLambda.pdb
